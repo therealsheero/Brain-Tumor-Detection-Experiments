@@ -5,4 +5,4 @@ Download the models from here:
 The files are arranged in the increasing order of their accuracy.
 
 ## Dataset
-Training and Testing files contains data from one dataset, Training2 and Testing2 contains data from another dataset [dataset2](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
+Training and Testing files contains data from one dataset [dataset1](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri), Training2 and Testing2 contains data from another dataset [dataset2](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
